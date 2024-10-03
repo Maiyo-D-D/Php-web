@@ -28,6 +28,7 @@
           session_start();
 
           include "connection.php";
+          //Update on signup: updated comment
 
           if (isset($_POST['register'])) {
 
